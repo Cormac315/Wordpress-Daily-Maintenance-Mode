@@ -45,9 +45,8 @@ function dmm_settings_page() {
     ?>
     <div class="wrap">
         <h1>每日定时维护</h1>
-        <p>作者：Cormac        版本：1.0Beta</p>
-        <p>欢迎访问<a href="https://cormac.top">我的博客</a>~~</p>
-        <p>本项目<a href="https://github.com/cormac-top/daily-maintenance-mode">github地址</a>，喜欢的话请点个star哦~</p>
+        <p>作者：<a href="https://cormac.top">Cormac</a>        版本：1.0Beta</p>
+        <p>本项目<a href="https://github.com/Cormac315/daily-maintenance-mode">github地址</a>，有bug请发issues，喜欢的话请点个star哦~</p>
         <form method="post" action="">
             <label for="dmm_mode">维护模式：</label>
             <select name="dmm_mode" id="dmm_mode">
